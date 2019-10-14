@@ -1,0 +1,7 @@
+#Analyzing Traffic
+--
+## Wireshark
+[Wireshark](https://www.wireshark.org/)is an open source tool that analyzes traffic on a network. 
+It accomplishes this by listening through a given network interface. It logs the traffic as it listens, it also shows the protocols used in each item that is logged. 
+--
+## tcpdump
